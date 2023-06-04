@@ -1,4 +1,4 @@
-## ReSTful API - NodeJS - Consuming in AngularJS
+## ReSTful API - NodeJS - Consuming in AngularJS / CRUD Inventory
 ReST API using NodeJS, MongoDB and consuming in a application created with AngularJS. 
 
 #### Requirements
