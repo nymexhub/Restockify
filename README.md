@@ -26,4 +26,7 @@ linux
 On your browser and point to http://localhost:3001
 
 # Author
-By Computer Science Engineer: Felipe Alfonso Gonzalez / EMail: (f.alfonso@res-ear.ch)
+By Computer Science Engineer: Felipe Alfonso Gonzalez / EMail: (f.alfonso@res-ear.ch)# Developers:
+
+# Developers
+[Reuben Azi](https://geekyourselfblog.wordpress.com/) - Software Engineer - [Email](mailto:cheerantz@gmail.com) 
