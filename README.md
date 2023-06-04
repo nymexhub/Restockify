@@ -24,3 +24,6 @@ linux
 * node server
 
 On your browser and point to http://localhost:3001
+
+# Author
+By Computer Science Engineer: Felipe Alfonso Gonzalez / EMail: (f.alfonso@res-ear.ch)
