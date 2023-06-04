@@ -1,10 +1,7 @@
 ## ReSTful API - NodeJS - consuming in AngularJS
+ReST API using NodeJS, MongoDB and consuming in a application created with AngularJS. 
 
--ReST API using NodeJS, MongoDB and consuming in a application created with AngularJS. 
-
--
 #### Requirements
--
 * Node http://nodejs.org/
 * MongoDB https://www.mongodb.org/
 
