@@ -19,8 +19,7 @@ ReST API using NodeJS, MongoDB and consuming in a application created with Angul
 To start the application, run the following 2 commands in your terminal (command prompt).
 Prefix sudo if working in linux machine
 
-### Start mongodb
------------------------
+#### Start mongodb
 #### Windows
 browse into your mongodb installation folder and into the bin directory
 Run mongod.exe
@@ -35,10 +34,10 @@ C:\Program Files\MongoDB 2.6 Standard\bin\mongod.exe
 
 On your browser and point to http://localhost:3001
 
-#### Author
+### Author
 By Computer Science Engineer: Felipe Alfonso Gonzalez / EMail: (f.alfonso@res-ear.ch)
 
-#### Developers
+#### Contributors
 [Reuben Azi](https://geekyourselfblog.wordpress.com/) - Software Engineer - [Email](mailto:cheerantz@gmail.com) 
 
 
