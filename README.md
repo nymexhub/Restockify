@@ -14,12 +14,12 @@ Restockify+ is a powerful ReST API built using NodeJS and MongoDB, designed to b
 [![Vim](https://img.shields.io/badge/--019733?logo=vim)](https://www.vim.org/)
 [![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)
 
-### Requirements :memo:
+#### Requirements :memo:
 Before getting started, make sure you have the following installed:
 * Node.js - http://nodejs.org/
 * MongoDB - https://www.mongodb.org/
 
-### Installation
+#### Installation
 To start the application, follow these steps in your terminal or command prompt. If you're on a Linux machine, you may need to prefix commands with `sudo`.
 
 1. Start MongoDB :gear::
@@ -44,8 +44,13 @@ node server
 
 4. Open your browser and navigate to [http://localhost:3001](http://localhost:3001) :computer:
 
-### Author
+#### Author
 This project was created by Felipe Alfonso Gonzalez, a talented Computer Science Engineer. You can reach him via email at f.alfonso@res-ear.ch.
 
-### Contributors :sparkles:
+#### Contributors :sparkles:
 Special thanks to [Reuben Azi](https://geekyourselfblog.wordpress.com/), a skilled Software Engineer, for his valuable contributions to this project. You can contact him via email at cheerantz@gmail.com.
+
+#### Support
+
+[![Support on PayPal](https://img.shields.io/badge/Support%20on-PayPal-blue?logo=paypal)](https://www.paypal.com/paypalme/felipealfonsog)
+[![Support on Buy Me a Coffee](https://img.shields.io/badge/Support%20on-Buy%20Me%20a%20Coffee-orange)](https://www.buymeacoffee.com/felipealfonsog)
