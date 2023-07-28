@@ -19,7 +19,7 @@ Before getting started, make sure you have the following installed:
 * Node.js - http://nodejs.org/
 * MongoDB - https://www.mongodb.org/
 
-### Installation :inbox_tray:
+### Installation
 To start the application, follow these steps in your terminal or command prompt. If you're on a Linux machine, you may need to prefix commands with `sudo`.
 
 1. Start MongoDB :gear::
@@ -44,8 +44,8 @@ node server
 
 4. Open your browser and navigate to [http://localhost:3001](http://localhost:3001) :computer:
 
-### Author :bust_in_silhouette:
+### Author
 This project was created by Felipe Alfonso Gonzalez, a talented Computer Science Engineer. You can reach him via email at f.alfonso@res-ear.ch.
 
 ### Contributors :sparkles:
-Special thanks to [Reuben Azi](https://geekyourselfblog.wordpress.com/), a skilled Software Engineer, for their valuable contributions to this project. You can contact them via email at cheerantz@gmail.com.
+Special thanks to [Reuben Azi](https://geekyourselfblog.wordpress.com/), a skilled Software Engineer, for his valuable contributions to this project. You can contact him via email at cheerantz@gmail.com.
