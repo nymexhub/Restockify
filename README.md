@@ -54,5 +54,5 @@ Special thanks to [Reuben Azi](https://geekyourselfblog.wordpress.com/), a skill
 
 #### Support
 
-[![Support on PayPal](https://img.shields.io/badge/Support%20on-PayPal-blue?logo=paypal)](https://www.paypal.com/paypalme/felipealfonsog)
+[![Support on PayPal](https://img.shields.io/badge/Support%20on-PayPal-blue?logo=paypal)](https://www.paypal.me/felipealfonsog)
 [![Support on Buy Me a Coffee](https://img.shields.io/badge/Support%20on-Buy%20Me%20a%20Coffee-orange)](https://www.buymeacoffee.com/felipealfonsog)
